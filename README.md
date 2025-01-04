@@ -59,7 +59,7 @@ YouTube thực sự là một "trường đại học" với vô số nội dung
 - [🎞️ Coursera - Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems)
 - [🎞️ Coursera - Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware)
 - [🎞️ Fastbit Embedded Brain Academy](https://fastbitlab.com/)
-- [🎞️ Modern Embedded Systems Programming Course (YouTube Playlist)](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
+- **[🎞️ Modern Embedded Systems Programming Course (YouTube Playlist)](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)**
 - [🎞️ element14 presents (YouTube Channel)](https://www.youtube.com/@element14presents)
 - [🎞️ Ben Eater (YouTube Channel)](https://www.youtube.com/@BenEater)
 - [🎞️ Phil’s Lab (YouTube Channel)](https://www.youtube.com/@PhilsLab)
